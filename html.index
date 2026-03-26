@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Snake Game (Python Tkinter)</title>
+</head>
+
+<body style="text-align:center; font-family:Arial">
+
+<h1>🐍 Snake Game using Python Tkinter</h1>
+
+<p>This is my Snake Game project.</p>
+
+<p>Download and run locally:</p>
+
+<pre>python snake.py</pre>
+
+<a href="snake.py">Download Source Code</a>
+
+</body>
+</html>
